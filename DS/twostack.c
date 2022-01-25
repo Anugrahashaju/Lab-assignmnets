@@ -1,3 +1,4 @@
+//created by anugraha shaju
 //This is a C Program to Implement two Stacks using a Single Array & Check for Overflow & Underflow
 #include <stdio.h>
 #define SIZE 10
